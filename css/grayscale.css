@@ -233,7 +233,12 @@ a:focus {
 }
 
 .sp2{
-  background: url(../img/objectified2.png) no-repeat center center scroll;
+  background: url(../img/objectified.png) no-repeat center center/100% scroll;
+}
+
+.sp3{
+  background: url(../img/mazeracer.png) no-repeat center center/100% scroll;
+
 }
 
 .download-section {
